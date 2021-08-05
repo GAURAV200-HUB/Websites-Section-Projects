@@ -1,0 +1,59 @@
+/*--------------- font-family: Livvic ---------------*/
+@font-face{
+	font-family: Livvic;
+	src: url(../fonts/Livvic/Livvic-Regular.ttf);
+}
+
+/*--------------- font-family: Anton ---------------*/
+@font-face{
+	font-family: Anton;
+	src: url(../fonts/Anton/Anton-Regular.ttf);
+}
+
+/*--------------- font-family: JosefinSlab ---------------*/
+@font-face{
+	font-family: JosefinSlab;
+	src: url(../fonts/JosefinSlab/JosefinSlab-Regular.ttf);
+}
+
+/*--------------- font-family: Playfair_Display ---------------*/
+@font-face{
+	font-family: Playfair_Display;
+	src: url(../fonts/Playfair_Display/PlayfairDisplay-Regular.ttf);
+}
+
+/*--------------- font-family: Acme ---------------*/
+@font-face{
+	font-family: Acme;
+	src: url(../fonts/Acme/Acme-Regular.ttf);
+}
+
+/*--------------- font-family: AmaticSC ---------------*/
+@font-face{
+	font-family: Amatic_SC;
+	src: url(../fonts/Amatic_SC/AmaticSC-Regular.ttf);
+}
+
+/*--------------- font-family: Dancing_Script ---------------*/
+@font-face{
+	font-family: Dancing_Script;
+	src: url(../fonts/Dancing_Script/DancingScript-Regular.ttf);
+}
+
+/*--------------- font-family: Indie_Flower ---------------*/
+@font-face{
+	font-family: Indie_Flower;
+	src: url(../fonts/Indie_Flower/IndieFlower-Regular.ttf);
+}
+
+/*--------------- font-family: Lobster ---------------*/
+@font-face{
+	font-family: Lobster;
+	src: url(../fonts/Lobster/Lobster-Regular.ttf);
+}
+
+/*--------------- font-family: Shadows_Into_Light ---------------*/
+@font-face{
+	font-family: Shadows_Into_Light;
+	src: url(../fonts/Shadows_Into_Light/ShadowsIntoLight-Regular.ttf);
+}
